@@ -1,0 +1,713 @@
+S. No.,State,Destination
+1,Andaman and Nicobar Islands,"Cellular Jail , Port Blair"
+1,Andaman and Nicobar Islands,"Limestone Caves, Baratang"
+1,Andaman and Nicobar Islands,Mahatama Gandhi Marine National Park Wandoor
+1,Andaman and Nicobar Islands,Mount Harriat National Park
+1,Andaman and Nicobar Islands,"Mini Zoo, Port Blair"
+1,Andaman and Nicobar Islands,"Biological Park, Chidiyatapu"
+2,Andhra Pradesh,"Tirupati, Chittoor"
+2,Andhra Pradesh,"Srikalahasti, Chittoor"
+2,Andhra Pradesh,"Kanakadurga Temple, Vijayawada"
+2,Andhra Pradesh,"Kanipakam, Chittoor"
+2,Andhra Pradesh,"Simhachalam, Visakhapatnam"
+2,Andhra Pradesh,"Golconda Fort, Hyd"
+2,Andhra Pradesh,"Charminar, Hyd"
+2,Andhra Pradesh,"Kailasagiri, Visakhapatnam"
+2,Andhra Pradesh,"1000 Pillars Temple, Warangal"
+2,Andhra Pradesh,"Ramappa Temple, Warangal"
+2,Andhra Pradesh,"Borra Caves, Visakhapatnam"
+2,Andhra Pradesh,"Submarine Museum, Visakhapatnam"
+2,Andhra Pradesh,"Horsley Hills, Chittoor"
+2,Andhra Pradesh,"Araku Valley, Visakhapatnam"
+3,Arunachal Pradesh,Bomdila
+3,Arunachal Pradesh,Tezu
+3,Arunachal Pradesh,Pasighat
+3,Arunachal Pradesh,Tawang
+3,Arunachal Pradesh,Ziro
+3,Arunachal Pradesh,Aalo
+3,Arunachal Pradesh,Mohanbari
+3,Arunachal Pradesh,Dirang
+3,Arunachal Pradesh,Seppa
+3,Arunachal Pradesh,Roing
+3,Arunachal Pradesh,Bhalukpong
+3,Arunachal Pradesh,Miao
+3,Arunachal Pradesh,Guwahati
+3,Arunachal Pradesh,Yinkiong
+3,Arunachal Pradesh,Shillong
+3,Arunachal Pradesh,Koloriang
+4,Assam,Kamakhya
+4,Assam,Kaziranga
+4,Assam,Guwahati
+4,Assam,Tezpur
+4,Assam,Jorhat
+4,Assam,Nagaon
+4,Assam,Sibsagar
+4,Assam,Silchar
+4,Assam,Barpeta Road
+4,Assam,Bhalukpung
+5,Bihar,Patna
+5,Bihar,Gaya
+5,Bihar,Madhepura
+5,Bihar,Rajgir
+5,Bihar,Bhagal pur
+5,Bihar,Bodhgaya
+5,Bihar,Nalanda
+5,Bihar,Sonepur Fair
+5,Bihar,Muzaffar Pur
+5,Bihar,Vaishali
+5,Bihar,Munger
+5,Bihar,Shrawani Mela Sultanganj (Bhagalpur)
+5,Bihar,Raxaul
+6,Chandigarh,Chandigarh
+7,Dadra and Nagar Haveli,Dadra and Nagar Haveli
+8,Daman and Diu,Daman
+9,Daman and Diu,Diu
+10,Delhi,Delhi
+11,Goa,Salcete
+11,Goa,Tisswadi
+11,Goa,Bardez
+11,Goa,Marumgoa
+11,Goa,Pernem
+11,Goa,Canacona
+11,Goa,Sanguem
+11,Goa,Ponda
+11,Goa,Bichalim
+12,Gujarat,Ahmedabad
+12,Gujarat,Ambaji
+12,Gujarat,Dwarka
+12,Gujarat,Surat
+12,Gujarat,Vadodara
+12,Gujarat,Rajkot
+12,Gujarat,Palitana
+12,Gujarat,Girnar
+12,Gujarat,Somnath
+12,Gujarat,Gandhinagar
+12,Gujarat,Becharaji
+12,Gujarat,Junagadh
+12,Gujarat,Chotila
+12,Gujarat,Bhavnagar
+12,Gujarat,Veraval
+12,Gujarat,Porbandar
+12,Gujarat,Vapi
+12,Gujarat,Dakor
+12,Gujarat,Bhuj
+12,Gujarat,Gandhidham
+12,Gujarat,Valsad
+12,Gujarat,Saputara
+12,Gujarat,Bharuch
+12,Gujarat,Jamnagar
+12,Gujarat,Sasan
+12,Gujarat,Pavagadh
+12,Gujarat,Mehsana
+12,Gujarat,Anand
+12,Gujarat,Virpur
+12,Gujarat,Morbi
+12,Gujarat,Ankleshwar
+12,Gujarat,Patan
+12,Gujarat,Mandvi-Kutch
+12,Gujarat,Tithal
+12,Gujarat,Mundra
+12,Gujarat,Ubharat
+12,Gujarat,Sardar Sarovar
+12,Gujarat,Dumas
+13,Haryana,Surajkund
+13,Haryana,Pipli
+13,Haryana,Uchana
+13,Haryana,Pinjore
+13,Haryana,Kurukshetra
+13,Haryana,Badkhal Lake
+13,Haryana,Rai Sonipat
+13,Haryana,Faridabad
+13,Haryana,Karna Lake
+13,Haryana,Panipat
+13,Haryana,Damdama Lake
+13,Haryana,Bahadurgar
+13,Haryana,Hodal
+13,Haryana,Suarj Kund Hermitage
+13,Haryana,Panchukla
+13,Haryana,Rohtak Tilyar
+13,Haryana,Hisar (F)
+13,Haryana,Rewari
+13,Haryana,Hisar (B)
+13,Haryana,Gurgaon
+13,Haryana,Ambala
+13,Haryana,SultanPur
+13,Haryana,Rohtak Myna
+13,Haryana,Sohna
+13,Haryana,Dharuhera
+13,Haryana,Kaithal
+13,Haryana,Tikkartal
+13,Haryana,Mansa Devi
+13,Haryana,Bhiwani
+13,Haryana,Jind
+13,Haryana,Samalkha
+13,Haryana,Morni hills
+13,Haryana,Yamuna Nagar
+13,Haryana,jyotisar
+13,Haryana,Raja Nahar Singh
+13,Haryana,Hansi
+13,Haryana,Pehewa
+13,Haryana,Sirsa
+13,Haryana,Ashukhera
+13,Haryana,Fatehbad
+14,Himachal Pradesh,Shimla
+14,Himachal Pradesh,Kullu
+14,Himachal Pradesh,Kangra
+14,Himachal Pradesh,Mandi
+14,Himachal Pradesh,Bilaspur
+14,Himachal Pradesh,Una
+14,Himachal Pradesh,Sirmour
+14,Himachal Pradesh,Chamba
+14,Himachal Pradesh,Solan
+14,Himachal Pradesh,Hamirpur
+14,Himachal Pradesh,Lahaul and Spiti
+14,Himachal Pradesh,Kinnaur
+15,Jammu and Kashmir,Jammu
+15,Jammu and Kashmir,Valley
+15,Jammu and Kashmir,Kashmir Valley
+15,Jammu and Kashmir,Amarnath
+15,Jammu and Kashmir,Leh
+15,Jammu and Kashmir,Ladakh
+16,Jharkhand,Deoghar
+16,Jharkhand,Dhanbad
+16,Jharkhand,Jamshedpur
+16,Jharkhand,"Jharkhandi Dham, Giridih"
+16,Jharkhand,Ranchi
+16,Jharkhand,Railway Station Ranchi
+16,Jharkhand,Airport Ranchi
+16,Jharkhand,Hazaribagh
+17,Karnataka,Dharmastala
+17,Karnataka,Shringeri
+17,Karnataka,Mysore Palace and Art Gallery
+17,Karnataka,Lalbagh
+17,Karnataka,Krishnarajasagara
+17,Karnataka,Chamundi Hills
+17,Karnataka,Sri Chamrajendra Zoological Gardens
+17,Karnataka,MM Hills
+17,Karnataka,Yallama Temple Savadatti
+17,Karnataka,Horanadu
+17,Karnataka,Kukke Subramanya
+17,Karnataka,Kateelu
+17,Karnataka,Sri Kanteshwara Temple Nanjanagud
+17,Karnataka,Shravanabelagola
+17,Karnataka,Hampi
+17,Karnataka,Goravanahalli Laxmi
+17,Karnataka,Yediyuru Siddalingeshwara Temple
+17,Karnataka,Kollur
+17,Karnataka,Siddagange
+17,Karnataka,Hulligemma Temple
+17,Karnataka,Golgumbaz and Ibrahimroza
+17,Karnataka,Jogfalls
+17,Karnataka,Nimishamba Temple
+17,Karnataka,Bannerghatta National Park
+17,Karnataka,Wonderla
+17,Karnataka,Kalasa
+17,Karnataka,Dari Daulath
+17,Karnataka,belur
+17,Karnataka,Viveshwaraiah Museum
+17,Karnataka,Talkaveri and Baghamandala
+17,Karnataka,T.B.Dam
+17,Karnataka,Halebid
+17,Karnataka,Anegondi
+17,Karnataka,Nandi Hills
+17,Karnataka,Suthoor Matha
+17,Karnataka,Sangama Mededatu
+17,Karnataka,BR Hills
+17,Karnataka,Gurudwara
+17,Karnataka,Iscon Temple
+17,Karnataka,Datta Temple Gangapur
+17,Karnataka,Pilikula Nisarga Dhama
+17,Karnataka,Malpe Beach
+17,Karnataka,Sri Krishna Temple
+17,Karnataka,Badami
+17,Karnataka,Melkote
+17,Karnataka,Adichumchanagiri
+17,Karnataka,Gavi Matha
+17,Karnataka,Gokarna
+17,Karnataka,Talkadu Temples
+17,Karnataka,Bilakuppe Golden temple
+17,Karnataka,Banasankari
+17,Karnataka,Murudeshwara
+17,Karnataka,Shivanasamudra Gagange Chukki
+17,Karnataka,Almatti Dam
+17,Karnataka,Bharachukki
+17,Karnataka,Cauvery Nisargashama
+17,Karnataka,Devarayanadurga
+17,Karnataka,Raja Seat
+17,Karnataka,Innovative film city
+17,Karnataka,Somnathpura
+17,Karnataka,Chitradurga Fort
+17,Karnataka,Pattadakal
+17,Karnataka,Papanashini
+17,Karnataka,Ghati Subramanya
+17,Karnataka,Banavasi
+17,Karnataka,Chandragutti Temple
+17,Karnataka,Ranganathittu Bird Sanctuary
+17,Karnataka,Aihole
+17,Karnataka,Vidhurashwatha
+17,Karnataka,Karkala Jain Basadi
+17,Karnataka,Thipperudraswamy Temple Nayakanahatti
+17,Karnataka,Thyavarekoppa Lion Safari
+17,Karnataka,Keladi/Ikkeri Temple
+17,Karnataka,Siddarabetta
+17,Karnataka,Basavakalyan
+17,Karnataka,Kudalasangama
+17,Karnataka,Om Beach
+17,Karnataka,Rabindranath Tagore and Deva Bagha Beach
+17,Karnataka,Bidar Fort
+17,Karnataka,Sir M.Visvesvaraya Birth Place and Museum
+17,Karnataka,Shivagange Temple
+17,Karnataka,Mahakuta
+17,Karnataka,Bababudan Giri
+17,Karnataka,Bellary Fort
+17,Karnataka,Lakkundi Monuments
+17,Karnataka,Kanakagiri
+17,Karnataka,Khaja Bandhe Nawaz Darga
+17,Karnataka,Savanadurga
+17,Karnataka,Revanasiddeshwara Betta
+17,Karnataka,Maravante Beach
+17,Karnataka,Tippu Palace
+17,Karnataka,Kokkarebellur
+17,Karnataka,Kemmannugundi
+17,Karnataka,Hanumanthnagara Eco Park
+17,Karnataka,Shanthisagara
+17,Karnataka,Nrupathunga Hill
+17,Karnataka,Bhdra Dam
+17,Karnataka,Yana
+17,Karnataka,Shivappa Nayaka Palace
+17,Karnataka,Siddaroodha Matha
+17,Karnataka,Harihareshwara Templa
+17,Karnataka,Someshwara Beach
+17,Karnataka,Basavanabagevadi
+17,Karnataka,Bagali
+17,Karnataka,Manchanabele Dam
+17,Karnataka,Sakrebyly Elephant Camp andGajnuru Dam
+17,Karnataka,Hogenekal Falls
+17,Karnataka,Anjaneya Swamy Temple Mulbagilu
+17,Karnataka,ittigi
+17,Karnataka,Zoo
+17,Karnataka,Kanakagiri
+17,Karnataka,Tippu Birth Place and Fort Devanahalli
+17,Karnataka,Kittur Fort
+17,Karnataka,"Sathodi, Magod Falls"
+17,Karnataka,Nagarahole National Park
+17,Karnataka,Kondajji Kera
+17,Karnataka,Ramadevara Betta Ramnagar
+17,Karnataka,Sadhankeri Lake
+17,Karnataka,Kuppali Kuvempu Measuem
+17,Karnataka,Thirumala Ranganatha Temple Magadi
+17,Karnataka,Ambika Nagara Power Station
+17,Karnataka,Kurudumale Ganesha Temple
+17,Karnataka,Janapada Loka
+17,Karnataka,Unchalli Falls
+17,Karnataka,Rangastala
+17,Karnataka,Thousand Piller Jain Basadi Moodbidre
+17,Karnataka,Avani Ramalingheshwar
+17,Karnataka,Yadgir Fort
+17,Karnataka,Chikka Thirupathi
+17,Karnataka,Gudvi Bird Sanctuary
+17,Karnataka,Gokak Falls
+17,Karnataka,Kotillinga Kammasandra
+17,Karnataka,SantahebennurePushkerni
+17,Karnataka,Museum
+17,Karnataka,Ativari Bird Sanctuary
+17,Karnataka,Sanjivini Park
+17,Karnataka,Daroji Bear Park
+17,Karnataka,Halurameshwara\
+17,Karnataka,Archaeological Museum
+17,Karnataka,Dandali Wild Life Sanctuary
+17,Karnataka,Bangalore Palace
+17,Karnataka,Antaragange
+17,Karnataka,Kasarkod Beach
+17,Karnataka,Bandipur
+17,Karnataka,Narayanapur Dam
+17,Karnataka,Sangankallu
+17,Karnataka,Kaginale
+17,Karnataka,Hatti Gold Mine
+17,Karnataka,Ashoka Inscriptions (Maski)
+18,Kerala,Ernakulam
+18,Kerala,Thrissur
+18,Kerala,Trivandrum
+18,Kerala,Kozhikode
+18,Kerala,Idukki
+18,Kerala,Kannur
+18,Kerala,Wayanad
+18,Kerala,Malappuram
+18,Kerala,Palakkad
+18,Kerala,Kottayam
+18,Kerala,Alappuzha
+18,Kerala,Kollam
+18,Kerala,Kasargod
+18,Kerala,Pathanamtitta
+19,Lakshdweep,Lakshdweep
+20,Madhya Pradesh,Maiher
+20,Madhya Pradesh,Chitrakoot
+20,Madhya Pradesh,Omkareshwar
+20,Madhya Pradesh,Salkanpur
+20,Madhya Pradesh,Ujjain
+20,Madhya Pradesh,Orchha
+20,Madhya Pradesh,Amar Kantak
+20,Madhya Pradesh,Hoshangabad
+20,Madhya Pradesh,Pachmarhi
+20,Madhya Pradesh,Gwalior
+20,Madhya Pradesh,Indore
+20,Madhya Pradesh,Mando
+20,Madhya Pradesh,Jabalpur
+20,Madhya Pradesh,Bhopal
+20,Madhya Pradesh,Maheshwar
+20,Madhya Pradesh,BhedaGhat
+20,Madhya Pradesh,Khajuraho
+20,Madhya Pradesh,Sanchi
+20,Madhya Pradesh,Kanha
+20,Madhya Pradesh,Datia
+20,Madhya Pradesh,Bandhagarh
+20,Madhya Pradesh,panna
+20,Madhya Pradesh,pench
+20,Madhya Pradesh,Burhanpur
+20,Madhya Pradesh,Bhimbetika
+20,Madhya Pradesh,Shivpuri
+21,Maharashtra,Mumbai
+21,Maharashtra,Pune
+21,Maharashtra,Mumbai Suburban
+21,Maharashtra,Aurangabad
+21,Maharashtra,Ahmednagar
+21,Maharashtra,Sindhudurg
+21,Maharashtra,Nanded
+21,Maharashtra,Kolhapur
+21,Maharashtra,Ratnagiri
+21,Maharashtra,Nagpur
+21,Maharashtra,Raigad
+21,Maharashtra,Nasik
+21,Maharashtra,Thane
+21,Maharashtra,Satara
+21,Maharashtra,Wardha
+21,Maharashtra,Chandapur
+21,Maharashtra,Osmanabad
+21,Maharashtra,Solapur
+21,Maharashtra,Buldhana
+21,Maharashtra,Washim
+21,Maharashtra,Hingoli
+21,Maharashtra,Jalgaon
+21,Maharashtra,Beed
+22,Manipur,Imphal West
+22,Manipur,Imphal East
+22,Manipur,Ukhrul
+22,Manipur,Chandel
+22,Manipur,Churachandpur
+22,Manipur,Tamenglong
+22,Manipur,Senapati
+23,Meghalaya,Shillong
+23,Meghalaya,Cherapunjee
+23,Meghalaya,Tura
+24,Mizoram,Aizawl
+24,Mizoram,Champhai
+24,Mizoram,Blue Mountain
+25,Nagaland,Dimapur
+25,Nagaland,Kohima
+25,Nagaland,Mokokchung
+25,Nagaland,Mon
+25,Nagaland,Tuensang
+25,Nagaland,Zunheboto
+25,Nagaland,Phek
+25,Nagaland,Peren
+25,Nagaland,Longleng
+25,Nagaland,Wokha
+25,Nagaland,Kipheri
+26,Odisha,Puri(HotelOccupancy)
+26,Odisha,Nandagiri
+26,Odisha,Konark (ASI Ticket Entery}
+26,Odisha,Chandaneswar
+26,Odisha,Dhauli
+26,Odisha,Aradi
+26,Odisha,Sambalur
+26,Odisha,Rourkela
+26,Odisha,Dhabaleswar
+26,Odisha,khandagiri and Udayagiri
+26,Odisha,Chandipur
+26,Odisha,Remuna
+26,Odisha,Nrusinghnath
+26,Odisha,Kapilas
+26,Odisha,Gupteswar
+26,Odisha,Taratarni
+26,Odisha,Paradeep
+26,Odisha,Pipli
+26,Odisha,Ghatagaon
+26,Odisha,Hirakud
+26,Odisha,Gopalpur
+26,Odisha,Sanaghagara
+26,Odisha,Kendrapra
+26,Odisha,Huma
+26,Odisha,Khiching
+26,Odisha,Banki
+26,Odisha,Jajpur
+26,Odisha,Sitabinji
+26,Odisha,Deokund
+26,Odisha,Raghuprrapur
+26,Odisha,Taptapani
+26,Odisha,Ratnagiri and Udayagiri
+26,Odisha,Lalitigiri
+27,Puduchery,Puduchery
+28,Punjab,Amritsar
+28,Punjab,Ludhiana
+28,Punjab,Jalandhar
+28,Punjab,Bathinda
+28,Punjab,Patiala
+28,Punjab,Mohali
+28,Punjab,Hoshiarpur
+29,Rajasthan,Ajmer
+29,Rajasthan,Mount Abu
+29,Rajasthan,Pushkar
+29,Rajasthan,Jaipur
+29,Rajasthan,Udaipur
+29,Rajasthan,Ranakpur
+29,Rajasthan,Nathdwara
+29,Rajasthan,Chitorgarh
+29,Rajasthan,Jodhpur
+29,Rajasthan,Jaisalmer
+29,Rajasthan,Bikaner
+29,Rajasthan,Jhunjhunun
+29,Rajasthan,Alwar
+29,Rajasthan,S. Madhopur
+29,Rajasthan,Banswara
+29,Rajasthan,Jhalawar
+29,Rajasthan,Bhartpur
+29,Rajasthan,Bundi
+29,Rajasthan,Kota
+29,Rajasthan,Sikar
+29,Rajasthan,Sariska
+29,Rajasthan,Baharor
+29,Rajasthan,Rishabhdeo
+29,Rajasthan,Siliserh
+30,Sikkim,"East District(Tsomgo,Baba Mandir and Nathula)"
+30,Sikkim,North District (Yumthang/Gurugongmar)
+30,Sikkim,West District (Pelling/Yuksom/Khechopairi)
+30,Sikkim,South District (Namchi)
+30,Sikkim,Sandruptse
+30,Sikkim,Solophok
+30,Sikkim,Shirdi Sai Mandir
+31,Tamil nadu,Chennai
+31,Tamil nadu,Rameswaram
+31,Tamil nadu,Madurai
+31,Tamil nadu,Thiruvannamalai
+31,Tamil nadu,Kodaikanal
+31,Tamil nadu,Thiruchendur
+31,Tamil nadu,Kanniyakumari
+31,Tamil nadu,Udhagamandalam
+31,Tamil nadu,Salem
+31,Tamil nadu,Thiruchirapalli
+31,Tamil nadu,Coimbatore
+31,Tamil nadu,Palani
+31,Tamil nadu,Thanjavur
+31,Tamil nadu,Hogenakkal
+31,Tamil nadu,Kumbakonam
+31,Tamil nadu,Kancheepuram
+31,Tamil nadu,Chidambaram
+31,Tamil nadu,Yercand
+31,Tamil nadu,Courtallam
+31,Tamil nadu,Mamallapuram
+31,Tamil nadu,Velankanni
+31,Tamil nadu,Nagore
+31,Tamil nadu,Tiruttani
+31,Tamil nadu,Coonoor
+31,Tamil nadu,Elagiri
+31,Tamil nadu,Poompuhar
+31,Tamil nadu,Mudumalai
+31,Tamil nadu,Pitchavaram
+31,Tamil nadu,Panchalankurichi
+32,Tripura,Agartala
+33,Uttar Pradesh,Allahabad
+33,Uttar Pradesh,Ayodhya
+33,Uttar Pradesh,Govardhan
+33,Uttar Pradesh,Agra
+33,Uttar Pradesh,Mathura
+33,Uttar Pradesh,Chitrakut
+33,Uttar Pradesh,Varanasi
+33,Uttar Pradesh,Lucknow
+33,Uttar Pradesh,Radhakund
+33,Uttar Pradesh,Vrindavan
+33,Uttar Pradesh,Vindhyachal
+33,Uttar Pradesh,Shakumbari Devi
+33,Uttar Pradesh,Soraun (Etah)
+33,Uttar Pradesh,Barsana
+33,Uttar Pradesh,Brajghat (Garhmukteshwar)
+33,Uttar Pradesh,Astabhuja
+33,Uttar Pradesh,Kusum Sarovar
+33,Uttar Pradesh,Gorakhpur
+33,Uttar Pradesh,Mau
+33,Uttar Pradesh,Jhansi
+33,Uttar Pradesh,Nandgaon
+33,Uttar Pradesh,Mahadeva (Barabank)
+33,Uttar Pradesh,Baliya
+33,Uttar Pradesh,Meerut
+33,Uttar Pradesh,Garhmukteshwar (Panchsil Nagar)
+33,Uttar Pradesh,Sarnath
+33,Uttar Pradesh,Bhairav Deo Sthal Azamgarh
+33,Uttar Pradesh,Bareilly
+33,Uttar Pradesh,Gokul
+33,Uttar Pradesh,Hasitnapur
+33,Uttar Pradesh,Kalpi (Jalaun)
+33,Uttar Pradesh,Vidurkuty
+33,Uttar Pradesh,Charkhari
+33,Uttar Pradesh,Azangarh
+33,Uttar Pradesh,Naraura
+33,Uttar Pradesh,Lalitpur
+33,Uttar Pradesh,Shukratal
+33,Uttar Pradesh,Gaziyabad
+33,Uttar Pradesh,Kushinagr(Padrauna)
+33,Uttar Pradesh,Bulandashahar
+33,Uttar Pradesh,Pura Mahadeva (Bagpat)
+33,Uttar Pradesh,Mirzapur
+33,Uttar Pradesh,Sitamarhi
+33,Uttar Pradesh,Mahoba
+33,Uttar Pradesh,Sant Kabirnagar
+33,Uttar Pradesh,Banda
+33,Uttar Pradesh,Bateshwar
+33,Uttar Pradesh,Devgarh
+33,Uttar Pradesh,Jaunpur
+33,Uttar Pradesh,Fatehpur Sikri
+33,Uttar Pradesh,Siddharthnagar
+33,Uttar Pradesh,Mujaffar Nagar
+33,Uttar Pradesh,Sardhana
+33,Uttar Pradesh,Gahamar (Kamakhya Devi Gazipur)
+33,Uttar Pradesh,Sonbhadra
+33,Uttar Pradesh,Kalinjar
+33,Uttar Pradesh,Baduon
+33,Uttar Pradesh,Noida
+33,Uttar Pradesh,Mahavan
+33,Uttar Pradesh,Baharaich
+33,Uttar Pradesh,Karadham
+33,Uttar Pradesh,Devasharif
+33,Uttar Pradesh,Ambedkarnagar
+33,Uttar Pradesh,Basti
+33,Uttar Pradesh,Kalindi Kunj
+33,Uttar Pradesh,Shrangberpur
+33,Uttar Pradesh,Kanpur (Nagar)
+33,Uttar Pradesh,Hindan
+33,Uttar Pradesh,Rajapur
+33,Uttar Pradesh,Dargah Sharif (Bahraich)
+33,Uttar Pradesh,Gautam Buddhnagar
+33,Uttar Pradesh,Magahar
+33,Uttar Pradesh,Sultanput
+33,Uttar Pradesh,Amrcha(Jyotibaphule Nagar)
+33,Uttar Pradesh,Barnavan (Bagpat)
+33,Uttar Pradesh,Shravasti
+33,Uttar Pradesh,Balrampur
+33,Uttar Pradesh,Dankaur (Gautam Buddhnagar)
+33,Uttar Pradesh,Golagokaran Nath
+33,Uttar Pradesh,Shahjajanpur
+33,Uttar Pradesh,Sukar Chhetra
+33,Uttar Pradesh,Kapilvastu (Piprahava)
+33,Uttar Pradesh,Muradabad
+33,Uttar Pradesh,Durvasa Rishi Ashram
+33,Uttar Pradesh,Pilibhit
+33,Uttar Pradesh,Kaushambi
+33,Uttar Pradesh,Bithoor
+33,Uttar Pradesh,Majeetha (Barabanki)
+33,Uttar Pradesh,Kotawa Dham
+33,Uttar Pradesh,Ausaneshwar Mahadev Mandir (Barabanki)
+33,Uttar Pradesh,Satarikh (Barabanki)
+33,Uttar Pradesh,Majhgavan Sharif
+33,Uttar Pradesh,Kunteshwar Mahadeo Mandir (Barabanki)
+33,Uttar Pradesh,Belhadevi
+33,Uttar Pradesh,Gonda
+33,Uttar Pradesh,Faizabad
+33,Uttar Pradesh,Rampur
+33,Uttar Pradesh,Sankisa
+33,Uttar Pradesh,Kannoj
+33,Uttar Pradesh,Sitaword Santuri
+33,Uttar Pradesh,Sonoli
+33,Uttar Pradesh,Shaharanpur
+33,Uttar Pradesh,Devranava Baba
+33,Uttar Pradesh,Bijnaur
+33,Uttar Pradesh,Devaria
+33,Uttar Pradesh,Ramabai Nagar (Kanpur Dehat)
+33,Uttar Pradesh,Barabanki
+33,Uttar Pradesh,Khurja (Bulanda Shahar)
+33,Uttar Pradesh,Katraniyaghat (Baharaich)
+33,Uttar Pradesh,Baghel Talab (Baharaich)
+33,Uttar Pradesh,Pilkhuja (Panchsil Nagar)
+33,Uttar Pradesh,Kampil
+33,Uttar Pradesh,Bhadhohi
+33,Uttar Pradesh,Lakhimpuri Khiri
+33,Uttar Pradesh,Hardoi
+33,Uttar Pradesh,Dudhawa
+33,Uttar Pradesh,Rae-Bareilly
+33,Uttar Pradesh,Sitapur
+33,Uttar Pradesh,Unnav
+33,Uttar Pradesh,Nimsar
+34,Uttarakhand,Haridwar
+34,Uttarakhand,Rishikesh
+34,Uttarakhand,Joshimath
+34,Uttarakhand,Uttarkashi
+34,Uttarakhand,Dehradun
+34,Uttarakhand,Mussoorie
+34,Uttarakhand,Narendranagar
+34,Uttarakhand,Nainital
+34,Uttarakhand,Rudraprayag
+34,Uttarakhand,Gopeshwar
+34,Uttarakhand,Kotdwar
+34,Uttarakhand,Kathgodam
+34,Uttarakhand,Srinagar
+34,Uttarakhand,Almora
+34,Uttarakhand,Ranikhet
+34,Uttarakhand,Pithoragarh
+34,Uttarakhand,Pauri
+34,Uttarakhand,Kausani
+34,Uttarakhand,Champawat
+35,West Bengal,Kolkata
+35,West Bengal,Digha/Mandermoni
+35,West Bengal,Siliguri
+35,West Bengal,Shantiniketan
+35,West Bengal,Tarakeswar
+35,West Bengal,Tarapith
+35,West Bengal,Gangasagar
+35,West Bengal,Murshidabad
+35,West Bengal,Nabadwip/Mayapur
+35,West Bengal,Darjeeling
+35,West Bengal,Sankarpur
+35,West Bengal,Howrah
+35,West Bengal,Bakreswar
+35,West Bengal,Malda
+35,West Bengal,Burdwan
+35,West Bengal,Durgapur
+35,West Bengal,Cooch Behar
+35,West Bengal,"Gour, Pandu and Adina"
+35,West Bengal,Haidia
+35,West Bengal,Jaydev-Kenduli
+35,West Bengal,Jairambati
+35,West Bengal,Bishnupur
+35,West Bengal,Dimond Harbour
+35,West Bengal,Kamarpukur
+35,West Bengal,Asansol
+35,West Bengal,Chandannagar
+35,West Bengal,Mukutmonipur
+35,West Bengal,Matihan
+35,West Bengal,Madarihat (Jaldapara)
+35,West Bengal,Bankura
+35,West Bengal,Krishnagar
+35,West Bengal,Bakkhali
+35,West Bengal,Raignj (Kulik)
+35,West Bengal,Malbazar
+35,West Bengal,Sajnekhali/Sunderbans
+35,West Bengal,Gadiara
+35,West Bengal,Chinsurah
+35,West Bengal,Kalna
+35,West Bengal,Basirhat-Taki
+35,West Bengal,Rasik Beel
+35,West Bengal,Chalsa
+35,West Bengal,Frazarganj
+35,West Bengal,Barrackpore
+35,West Bengal,Palassey
+35,West Bengal,Antpur
+35,West Bengal,Kalimpong
+35,West Bengal,Phalut
+35,West Bengal,Sandakphu
+35,West Bengal,Mirik
+35,West Bengal,Kurseong
+35,West Bengal,Jhargram
+35,West Bengal,Lolegaon
+35,West Bengal,Lava
+35,West Bengal,Rishop
+35,West Bengal,Panchakot
+35,West Bengal,Ayadhaya Hill
+35,West Bengal,Duarseni
